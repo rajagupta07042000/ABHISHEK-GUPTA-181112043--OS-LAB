@@ -3,50 +3,32 @@ Subject Code : CSE 317
 Subject Coordinator : Prof. Vijay Bhaskar
 Semester : 5th
 
-Assignment-1
+Assignment-1::OS-Lab-master_assign 1A.c
+              OS-Lab-master_assign 1B.c
 
-fibonacc-_fork.c
-parent_child_id.c
-Assignment-2
+Assignment-2::OS-Lab-master_bTree using fork.c
+              OS-Lab-master-master_sorting usin fork.c
+              
+Assignment-3::Lab3_OS.txt
 
-Sorting using fork().c
-Binarytree using fork.c
-Assignment-3
+Assignment-4::Thread_and_Fork().c
 
-orphan_process.c
-zombie_process.c
-multiprocess.c
-Assignment-4
+Assignment-5::fibonacci_using_thread.c
+              variables_in_thread.c
+              
+Assignment-6::Binary_Semaphore.c 
+              Counting_semaphore.c
+              Peterson_algorithm.c
+              Race_condition_fork.c
 
-Thread_and_Fork().c
-Assignment-5
+Assignment-7::Producer.c
+              Reader.c
+              
+Assignment-8:: idiningPhilosopher_using_Semaphores.c
 
-fibonacci_using_thread.c
-variables_in_thread.c
-Assignment-6
+Assignment-9 ::Banker'sAlgorithm.docx
 
-binary_semaphore.c , counting_semaphore.c
-peterson.c
-race_condition.c
-Assignment-7
-
-producer_consumer.c
-reader_writer.c
-Assignment-8
-
-diningPhilosopher_using_Semaphores.c
-Assignment-9
-
-Banker'sAlgorithm.cpp
-Assignment-10
-
-FCFS.cpp
-SJF.cpp
-Priority.cpp
-Round_Robin.cpp
-Assignment-11
-
-fcfs_disk_scheduling.c
-sstf_disk_scheduling.c
-c-scan_disk_scheduling.c
-scan_disk_scheduling.c
+Assignment-10::FCFS.cpp
+               SJF.cpp
+               Priority.cpp
+               Round_Robin.cpp
